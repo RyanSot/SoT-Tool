@@ -48,11 +48,11 @@ To use pre-made or shared configurations:
 
 Configurations can also be exported to `.zip` for easy sharing.
 
-## Features                                                    ## My own added features
+## Features
 
-* Dynamic health and regeneration indicators                  * AFK macro should exted time to 55 minutes
-* Customizable colours, fonts, and display anchors            * Travel freeze uses alt+enter alt+space bug
-* Health threshold indicators with colour transitions         * Engine.ini uses from 3 presets for custom graphics
+* Dynamic health and regeneration indicators
+* Customizable colours, fonts, and display anchors            
+* Health threshold indicators with colour transitions
 * Configurable skull icons for health state
 * Ammo tracking with automatic colour calibration
 * Optional static or dynamic crosshair
@@ -60,8 +60,12 @@ Configurations can also be exported to `.zip` for easy sharing.
 * Save and load configuration profiles as `.zip` files
 * In-game ImGui configuration and testing interface
 
+ ## My own added features
+* AFK macro should exted time to 55 minutes
+* Travel freeze uses alt+enter alt+space bug
+* Engine.ini uses from 3 presets for custom graphics
 
-* ## License
+## License
 
 This project is provided as-is for personal and educational use.
 
