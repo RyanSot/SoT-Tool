@@ -48,7 +48,7 @@ To use pre-made or shared configurations:
 
 Configurations can also be exported to `.zip` for easy sharing.
 
-## Features                                                    My own added features
+## Features                                                    ## My own added features
 
 * Dynamic health and regeneration indicators                  * AFK macro should exted time to 55 minutes
 * Customizable colours, fonts, and display anchors            * Travel freeze uses alt+enter alt+space bug
@@ -59,6 +59,7 @@ Configurations can also be exported to `.zip` for easy sharing.
 * Live configuration reloading when `Config/` files change
 * Save and load configuration profiles as `.zip` files
 * In-game ImGui configuration and testing interface
+
 
 * ## License
 
