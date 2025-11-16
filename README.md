@@ -1,15 +1,15 @@
 Author:Redcube
        RyanSoT
 
-Have in mind this branch is my own thing using SOT HUD as main core i got some help from Cube and i do not take any resposibility for your account being banne if any 
-
-SOT TOOL is fully external 
+## SOT TOOL is fully external 
 
 The program uses macro wich may breake TOS & pixel scanning to update the overlay based on the in-game HUD which is then placed ontop of the pre-existing HUD.
 
 The program doesn't interact with the Sea of Thieves Client at all except for Screen Capture and overlaying images on it which are both Code of Conduct compliant due to OBS and Crosshair X working the same.
 
-Based on my interpretation of the Code of Conduct this software is safe to use without the risk of getting banned but Rare refuses to answer me with definite confirmation.
+Based on my interpretation of the Code of Conduct this software is safe to use but still may result in bam
+
+Have in mind this branch is my own thing using SOT HUD as main core i got some help from Cube and i do not take any resposibility for your account being banne if any 
 
 <br>
 
