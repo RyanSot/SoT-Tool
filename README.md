@@ -1,34 +1,67 @@
-# SoT-Tool
-this is a modified version of SoT HUD https://github.com/RedcubeGH/SoT-HUD please use at own risk this version may breake Sea of Thieves TOS
+Author:Redcube
+       RyanSoT
 
-The program uses pixel scanning to update the overlay based on the in-game HUD which is then placed ontop of the pre-existing HUD.
+Have in mind this branch is my own thing using SOT HUD as main core i got some help from Cube and i do not take any resposibility for your account being banne if any 
+
+SOT TOOL is fully external 
+
+The program uses macro wich may breake TOS & pixel scanning to update the overlay based on the in-game HUD which is then placed ontop of the pre-existing HUD.
+
+The program doesn't interact with the Sea of Thieves Client at all except for Screen Capture and overlaying images on it which are both Code of Conduct compliant due to OBS and Crosshair X working the same.
+
+Based on my interpretation of the Code of Conduct this software is safe to use without the risk of getting banned but Rare refuses to answer me with definite confirmation.
+
+<br>
+
+### Run the compiled release
+
+Download and extract the latest [**release build**](https://github.com/RedcubeGH/SoT-HUD/releases), then run:
+
+```
+SoT HUD.exe
+```
+
+> **Note:**
+>
+> * Do not launch SoT HUD while Easy Anti-Cheat (EAC) is initializing, as this can cause the overlay to scale incorrectly. Start SoT HUD either before or after starting the game, if you did start it during EAC initialization just restart it. 
+> * SoT HUD is optimized for **fullscreen mode**. Running in windowed mode may cause alignment issues.
+---
+<br>
+
+## Hotkeys
+
+| Key        | Action                              |
+| ---------- | ----------------------------------- |
+| **Insert** | Toggle the ImGui configuration menu |
+| **Delete** | Exit SoT HUD and save configuration |
+
+## Customization
 
 The ImGui interface allows full customization of the HUD elements, including colours, font, position, and display options.
 
+To use pre-made or shared configurations:
 
-    Do not launch SoT HUD while Easy Anti-Cheat (EAC) is initializing, as this can cause the overlay to scale incorrectly.
-    Start SoT HUD either before or after starting the game, if you did start it during EAC initialization just restart it.
-    SoT HUD is optimized for fullscreen mode. Running in windowed mode may cause alignment issues.
+1. Download a configuration `.zip` file from the [Paks Discord](https://discord.gg/swm3jwrN6M). or zips we share on main/this page
+2. Place it inside the `YourConfigs/` directory.
+3. In the ImGui menu, go to:
+   `File → Open Config → [Your Config].zip`
 
-Customization
+Configurations can also be exported to `.zip` for easy sharing.
 
- To use pre-made or shared configurations:
+## Features                                                    My own added features
 
-    Download a configuration .zip file from the Paks Discord.
-    Place it inside the YourConfigs/ directory.
-    In the ImGui menu, go to: File → Open Config → [Your Config].zip
+* Dynamic health and regeneration indicators                  * AFK macro should exted time to 55 minutes
+* Customizable colours, fonts, and display anchors            * Travel freeze uses alt+enter alt+space bug
+* Health threshold indicators with colour transitions         * Engine.ini uses from 3 presets for custom graphics
+* Configurable skull icons for health state
+* Ammo tracking with automatic colour calibration
+* Optional static or dynamic crosshair
+* Live configuration reloading when `Config/` files change
+* Save and load configuration profiles as `.zip` files
+* In-game ImGui configuration and testing interface
 
-Configurations can also be exported to .zip for easy sharing.
+* ## License
 
+This project is provided as-is for personal and educational use.
 
-FEATURES                                                            MY OWN ADDED FEATURES
-
-   • Dynamic health and regeneration indicators                     • AFK macro should exted time to 55 minutes   
-   • Customizable colours, fonts, and display anchors               • travel freeze uses alt+enter alt+space bug
-   • Health threshold indicators with colour transitions            • Engine.ini uses from 3 presets for custom graphics
-   • Configurable skull icons for health state
-   • Ammo tracking with automatic colour calibration
-   • Optional static or dynamic crosshair
-   • Live configuration reloading when Config/ files change
-   • Save and load configuration profiles as .zip files
-   • In-game ImGui configuration and testing interface
+All trademarks and game assets belong to their respective owners (Sea of Thieves © Microsoft / Rare Ltd).
