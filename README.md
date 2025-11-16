@@ -9,7 +9,7 @@ The program doesn't interact with the Sea of Thieves Client at all except for Sc
 
 Based on my interpretation of the Code of Conduct this software is safe to use but still may result in bam
 
-Have in mind this branch is my own thing using SOT HUD as main core i got some help from Cube and i do not take any resposibility for your account being banne if any 
+Have in mind this branch is using SOT HUD as main core i got some help from Cube and i do not take any resposibility for your account being banned
 
 <br>
 
