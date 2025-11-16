@@ -11,6 +11,7 @@ The ImGui interface allows full customization of the HUD elements, including col
     SoT HUD is optimized for fullscreen mode. Running in windowed mode may cause alignment issues.
 
 Customization
+
  To use pre-made or shared configurations:
 
     Download a configuration .zip file from the Paks Discord.
