@@ -15,8 +15,12 @@ Have in mind this branch is using SOT HUD as main core i got some help from Cube
 
 <br>
 
-### Run the compiled release
+### How to use/fix
+to open just extract and launch exe BUT must keep exe in 
 
+to fix just open _internal and drag in one or both of DLLs
+on 90% youll be missing GLFW3 lib get from top of this page 
+and probably miss msvcr120 get from top too
 
 
 > **Note:**
