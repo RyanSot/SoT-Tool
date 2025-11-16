@@ -3,6 +3,8 @@ Author:Redcube
 
 ## SOT TOOL is fully external 
 
+Please report any issues asap so i can fix them
+
 The program uses macro wich may breake TOS & pixel scanning to update the overlay based on the in-game HUD which is then placed ontop of the pre-existing HUD.
 
 The program doesn't interact with the Sea of Thieves Client at all except for Screen Capture and overlaying images on it which are both Code of Conduct compliant due to OBS and Crosshair X working the same.
@@ -15,11 +17,7 @@ Have in mind this branch is using SOT HUD as main core i got some help from Cube
 
 ### Run the compiled release
 
-Download and extract the latest [**release build**](https://github.com/RedcubeGH/SoT-HUD/releases), then run:
 
-```
-SoT HUD.exe
-```
 
 > **Note:**
 >
