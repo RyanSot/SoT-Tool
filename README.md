@@ -9,7 +9,7 @@ The program uses macro wich may breake TOS & pixel scanning to update the overla
 
 The program doesn't interact with the Sea of Thieves Client at all except for Screen Capture and overlaying images on it which are both Code of Conduct compliant due to OBS and Crosshair X working the same.
 
-Based on my interpretation of the Code of Conduct this software is safe to use but still may result in bam
+Based on my interpretation of the Code of Conduct this software is safe to use but still may result in ban
 
 Have in mind this branch is using SOT HUD as main core i got some help from Cube and i do not take any resposibility for your account being banned
 
